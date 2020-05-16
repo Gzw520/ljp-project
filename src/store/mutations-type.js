@@ -1,0 +1,6 @@
+export const ADD_VALUE = 'add_value'
+export const ADD_DATA = 'add_data'
+export const ADD_USER = 'add_user'
+export const ADD_NUM = 'add_num'
+export const DEC_NUM = 'dec_num'
+export const DEL_DATA = 'del_data'
