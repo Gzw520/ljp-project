@@ -10,7 +10,7 @@ const views = require('koa-views')
 const svgCaptcha = require('svg-captcha')
 const SMSClient = require('@alicloud/sms-sdk') //阿里云接口
 const accessKeyId = ' '//你自己在阿里云后台的accessKeyId
-const secretAccessKey = 'KjKBx069U2nq4hyeljMxDiS5YSvqPJ'//secretAccessKey
+const secretAccessKey = 'K你自己在阿里云后台的'//secretAccessKey
 
 
 const app = new Koa()
